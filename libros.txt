@@ -1,0 +1,50 @@
+Titulo: PECES
+Autor: BALTASAR EVA
+Precio: 17,96 €
+Sinopsis: La nueva novela de Eva Baltasar. *Finalista del Premio Booker Internacional 2023* *Finalista del Premio Médici Extr...
+--------------------------------------------------
+Titulo: MARCELINO
+Autor: COLLADO CABRERA BIBIANA
+Precio: 16,63 €
+Sinopsis: Un hombre mayor. Un hombre mayor, de campo. Un hombre mayor, de campo, hablándonos de sexo. Un hombre mayor, de ca...
+--------------------------------------------------
+Titulo: LA TRAICIÓN DE MI LENGUA
+Autor: SOSA VILLADA, CAMILA
+Precio: 17,10 €
+Sinopsis: «La memoria es el afecto más traidor que existe», escribe Camila Sosa Villada. En este libro, la autora se adentra e...
+--------------------------------------------------
+Titulo: PUNTO DE ARAÑA
+Autor: PALLARES VILAR NEREA
+Precio: 18,95 €
+Sinopsis: Un primera novela excepcional. Un relato coral que entrelaza realismo social, memoria colectiva y mitología para nar...
+--------------------------------------------------
+Titulo: FÍSICA DE LA TRISTEZA
+Autor: GOSPODÍNOV, GUEORGUI
+Precio: 23,70 €
+Sinopsis: En lo pequeño y lo insignificante: ahí es donde se esconde la vida, ahí es donde construye su nido. Nuestro narrador...
+--------------------------------------------------
+Titulo: REDIMIR Y ADOCTRINAR
+Autor: GUILLÉN LORENTE, CARMEN
+Precio: 20,81 €
+Sinopsis: "De entre todos los fragmentos que componen la compleja historia del siglo XX español, pocos capítulos resultan tan ...
+--------------------------------------------------
+Titulo: HISTORIAS DE FANTASMAS
+Autor: HUSTVEDT, SIRI
+Precio: 20,81 €
+Sinopsis: Estas historias de fantasmas son también historias de amor.«Historias de fantasmas es un año de duelo convertido en ...
+--------------------------------------------------
+Titulo: LA FOSA ABIERTA
+Autor: VASALLO, BRIGITTE
+Precio: 20,81 €
+Sinopsis: Una deconstrucción de la experiencia de la diáspora rural en el sur de Europa a partir de la historia íntima familia...
+--------------------------------------------------
+Titulo: UN DESEO DESMESURADO DE AMISTAD
+Autor: GIANNECCHINI HÉLÈNE
+Precio: 20,81 €
+Sinopsis: Una vindicación del vínculo de la amistad, la familia escogida que nos permite crear nuevas formas de vida. ¿Cómo po...
+--------------------------------------------------
+Titulo: LA ANTÁRTICA EMPIEZA AQUÍ
+Autor: LABATUT, BENJAMÍN
+Precio: 17,96 €
+Sinopsis: Una impactante colección de historias y personajes que se mueven en los límites del mundo y de la cordura. Antes de ...
+--------------------------------------------------
